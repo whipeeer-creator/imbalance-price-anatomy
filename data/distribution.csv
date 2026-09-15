@@ -1,0 +1,16 @@
+metric,value
+n,92018
+mean,103.836
+median,103.6
+min,-14878.71
+max,12405.54
+p1,-241.64
+p5,-45.54
+p25,0.0
+p75,145.22
+p95,343.1
+p99,806.62
+share_negative,15.208
+share_above_500,3.38
+tail_share_of_rows,18.588
+tail_share_of_magnitude,35.941
