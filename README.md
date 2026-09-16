@@ -152,6 +152,8 @@ redistributed here.
 
 ## Related
 
+- [aFRR and mFRR explained](https://progrunners.com/afrr-mfrr/) — what they are, how often they are activated and what balancing energy costs, with measured figures
+
 - [ceps-ote](https://github.com/whipeeer-creator/ceps-ote) — get the inputs
 - [european-power-prices](https://github.com/whipeeer-creator/european-power-prices) —
   day-ahead prices for 12 zones since 2022
