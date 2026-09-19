@@ -161,6 +161,13 @@ redistributed here.
   the same data for the rest of Europe
 - [Czech market data guide](https://progrunners.com/cs/market-data/czechia/)
 
+## Also in here
+
+- [How often aFRR and mFRR are actually activated](docs/afrr-mfrr-czechia.md) —
+  activation frequency and energy prices for Czechia, August 2026, from the same
+  ČEPS source. aFRR runs in 76 % of quarter hours; the median activated price is
+  135.5 EUR/MWh and the maximum is fifty times that.
+
 Maintained by [progrunners](https://progrunners.com/open-source/) — we build
 trading dashboards and market data pipelines for European power markets, and
 publish the parts that are useful on their own.
