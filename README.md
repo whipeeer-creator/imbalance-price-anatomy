@@ -116,8 +116,7 @@ python3 imbalance_stats.py qh.csv \
   [ceps-ote](https://github.com/whipeeer-creator/ceps-ote)
 - Final imbalance price — OTE yearly market reports
   ([ote-cr.cz](https://www.ote-cr.cz/en), Statistics → Yearly report)
-- Day-ahead price — the yearly reports too, or
-  [european-power-prices](https://github.com/whipeeer-creator/european-power-prices)
+- Day-ahead price — the yearly reports too
 
 Standard library only, except the charts, which use matplotlib if it is
 installed and are skipped if it is not.
@@ -155,8 +154,6 @@ redistributed here.
 - [aFRR and mFRR explained](https://progrunners.com/afrr-mfrr/) — what they are, how often they are activated and what balancing energy costs, with measured figures
 
 - [ceps-ote](https://github.com/whipeeer-creator/ceps-ote) — get the inputs
-- [european-power-prices](https://github.com/whipeeer-creator/european-power-prices) —
-  day-ahead prices for 12 zones since 2022
 - [awesome-european-energy-data](https://github.com/whipeeer-creator/awesome-european-energy-data) —
   the same data for the rest of Europe
 - [Czech market data guide](https://progrunners.com/cs/market-data/czechia/)
